@@ -4,6 +4,7 @@ nbproject
 *.iml
 out
 gen
+nbproject/*
 
 # Kohana template
 application/cache/*
